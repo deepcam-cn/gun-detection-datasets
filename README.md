@@ -10,7 +10,7 @@ By downloading the LinkSprite gun detectiond dataset, the Receiving Entity agree
       title = “{A Gun Detection Dataset and Searching for Embedded Device Solutions”,
       Journal = {https://arxiv.org/abs/2105.01058} ,
       Year = {2021}
-}
+      }
 
 - No further distribution of the data without express written permission from LinkSprite. Instead, third parties should apply for the data to LinkSprite directly.
 

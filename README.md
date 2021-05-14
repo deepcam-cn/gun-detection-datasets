@@ -20,7 +20,7 @@ By downloading the LinkSprite gun detectiond dataset, the Receiving Entity agree
       @misc{Linksprite_Gun_dataset,
       author = “Delong Qi, and Weijun Tan, and Zhifu Liu, and Qi Yao, and Jingfeng Liu”,
       title = “{A Gun Detection Dataset and Searching for Embedded Device Solutions”,
-      Journal = {https://arxiv.org/abs/2105.01058} ,
+      Journal = {ArXiv preprint 2105.01058},
       Year = {2021}
       }
 

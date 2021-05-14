@@ -38,3 +38,12 @@ b) understand that the Database is subject to change at any time
 c) understand that the LinkSprite makes no guarantee or warranty of non-infringement
 
 Please email datasets@linksprite.com to get access to the gun detection datasets.
+
+## Sample Images
+- Sample images for gun detection 
+![detection samples](gun-sample.png)
+- Sample images for gun classification 
+![detection samples](gun-classifier-sample.png)
+
+
+

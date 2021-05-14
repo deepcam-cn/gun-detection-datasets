@@ -41,9 +41,13 @@ Please email datasets@linksprite.com to get access to the gun detection datasets
 
 ## Sample Images
 - Sample images for gun detection 
-![detection samples](gun-sample.png)
+
+<img align="left" src="gun-sample.png">
+
 - Sample images for gun classification 
-![detection samples](gun-classifier-sample.png)
+
+<img align="left" src="gun-classifier-sample.png">
+
 
 
 

@@ -15,7 +15,7 @@ The sources where we collect our gun image dataset include:
 
 By downloading the LinkSprite gun detectiond dataset, the Receiving Entity agrees to:
 
-- Cite the following publication
+- Cite the following publication (https://arxiv.org/abs/2105.01058)
 
       @misc{Linksprite_Gun_dataset,
       author = “Delong Qi, and Weijun Tan, and Zhifu Liu, and Qi Yao, and Jingfeng Liu”,
